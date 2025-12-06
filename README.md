@@ -24,7 +24,7 @@ Proyecto Unity con **Vuforia AR**. Permite la **generación de un brazo escalado
 
 ## 🎬 Demo
 
-https://github.com/user-attachments/assets/92ed2b2a-a885-44ae-817d-ad95e8d597d1
+https://github.com/user-attachments/assets/75f2f483-6370-4f46-8ab8-ad8eaa3f1115
 
 ---
 
