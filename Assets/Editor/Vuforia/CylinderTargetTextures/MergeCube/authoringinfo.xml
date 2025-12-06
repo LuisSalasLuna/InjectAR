@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.1">
+        <CylinderTarget name="Jeringa" version="3.0" targetId="23f868aaf7854d4ca13c0614bad886e6" sideLength="0.070000" topDiameter="0.015000" bottomDiameter="0.015000" sideImage="Jeringa.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
