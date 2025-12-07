@@ -28,6 +28,15 @@ https://github.com/user-attachments/assets/75f2f483-6370-4f46-8ab8-ad8eaa3f1115
 
 ---
 
+## 🔨 Build Unity
+
+- Descargar proyecto (git clone, descargar zip)
+- Descargar y agregar archivo com.ptc.vuforia.engine-11.4.4.tgz de [Vuforia](https://developer.vuforia.com/) a carpeta Packages/
+- Abrir Scene Test11 (latest version)
+- Build & Run
+
+---
+
 ## 📁 Prueba aqui
 
 https://drive.google.com/drive/folders/1zqy8a2YOhJ3RcqeEXRfBOseCVbSpE3xD?usp=sharing
